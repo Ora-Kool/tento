@@ -72,3 +72,23 @@ php artisan key:generate
 ```bash
 php artisan migrate
 ```
+### 🤝 Contributing
+We welcome contributions that make TeNTo better for learners and developers exploring multi-tenancy.
+
+#### To contribute:
+1. Fork the repository
+2. Create a feature branch
+```bash
+git checkout -b feature/your-feature
+```
+3. Commit your changes with clear messages.
+4. Push to your fork:
+```bash 
+git push origin feature/your-feature 
+```
+5. Open a Pull Request explaining your changes and why they improve tento.
+
+✅ Suggestions, issues, and improvements are highly appreciated. Let’s build this learning resource together for the Laravel community.
+
+###  License
+This project is open-source under the MIT license.
